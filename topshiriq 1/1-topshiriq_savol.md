@@ -12,3 +12,5 @@ Qo'shimcha
 session da username ni qabul qilsin va dastur tugashida sessiobn o'chirilsin
 
 Agar hamma malumot to'g'ri bo'lsa Ro'yxatdan muvaffaqiyatli o'tingiz desin va tagida sinzing ismingiz username ni chiqarish
+
+#  Bu topshirqni php yoki oop da ham qilsa bo'ladi bu har ikkalasini ham qo'llaydi
