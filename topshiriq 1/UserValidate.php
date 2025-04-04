@@ -27,6 +27,7 @@ class UserValidate
 
         return empty($this->errors);
     }
+    
 
     public function getErrors()
     {
