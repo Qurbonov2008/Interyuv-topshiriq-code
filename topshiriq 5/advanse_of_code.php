@@ -30,6 +30,7 @@ function countXMAS2D($matrix, $word) {
             if ($revVertical === $word) $count++;
         }
     }
+    
 
     return $count;
 }
